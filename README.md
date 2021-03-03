@@ -9,7 +9,7 @@
 - Understand the customer behaviour during the good and action phase to predict churn in advance before customer enters churn phase.
 
 
-# The telecom operator wants to know:
+#### The telecom operator wants to know:
 - Whether a high-value customer will churn or not, in near future (i.e. churn phase). By knowing this, the company can take action steps such as providing special plans, discounts on recharge etc.
 - Important variables that are strong predictors of churn. These variables may also indicate why customers choose to switch to other networks.
 
